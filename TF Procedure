@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T12:12:42.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="_oN0PhN5Mu511Gl_Z-IM" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T12:13:50.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="btEKDsRsgfsQ9VBgwunJ" version="14.6.1" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
     <mxGraphModel dx="1408" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="W6RhJ5POpFqGpuzWISpY-6" value="Tecno Ferrari" style="text;html=1;strokeColor=#666666;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fontColor=#333333;fillColor=#FFCE9F;" parent="1" vertex="1">
           <mxGeometry x="70" y="10" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="W6RhJ5POpFqGpuzWISpY-9" value="KD" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="W6RhJ5POpFqGpuzWISpY-9" value="KD&lt;br&gt;PRD" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="10" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W6RhJ5POpFqGpuzWISpY-12" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#D4E1F5;" parent="1" vertex="1">
@@ -100,7 +100,7 @@
         <mxCell id="W6RhJ5POpFqGpuzWISpY-62" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#330000;" parent="W6RhJ5POpFqGpuzWISpY-60" vertex="1">
           <mxGeometry x="6.106970080067416" y="30.58866310160429" width="40.70796460176992" height="18.82352941176471" as="geometry" />
         </mxCell>
-        <mxCell id="W6RhJ5POpFqGpuzWISpY-63" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Inform PCD and TECH (repairteam@keyence.it order of &lt;font color=&quot;#ff3333&quot;&gt;SZ-VHW&lt;/font&gt; arrived&lt;/b&gt;&lt;/span&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;align=center;verticalAlign=middle;fontColor=#330000;" parent="W6RhJ5POpFqGpuzWISpY-60" vertex="1">
+        <mxCell id="W6RhJ5POpFqGpuzWISpY-63" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Inform PCD and TECH (repairteam@keyence.it) order of &lt;font color=&quot;#ff3333&quot;&gt;SZ-VHW&lt;/font&gt; arrived&lt;/b&gt;&lt;/span&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;align=center;verticalAlign=middle;fontColor=#330000;" parent="W6RhJ5POpFqGpuzWISpY-60" vertex="1">
           <mxGeometry x="31.380000000000003" y="27.76" width="253.36" height="52.24" as="geometry" />
         </mxCell>
         <mxCell id="W6RhJ5POpFqGpuzWISpY-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontColor=#330000;strokeWidth=4;" parent="1" source="W6RhJ5POpFqGpuzWISpY-53" target="W6RhJ5POpFqGpuzWISpY-62" edge="1">
