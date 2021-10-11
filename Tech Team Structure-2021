@@ -1,15 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T16:44:44.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="32GYueq5YX3mUPAsxaQp" version="15.5.1" type="github">
-  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-10-11T16:58:49.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="ujeRdV3iomHTsInCgzgE" version="15.5.1" type="github" pages="2">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="AS IS">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="1320" height="380" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Tech Structure" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="80" width="1480" height="380" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui variable&amp;#34; , &amp;#34;segoe ui&amp;#34; , , , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; ; font-size: 14px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;Line: %SupportLine%&lt;/span&gt;" name="Eugenio Meregalli" position="Senior Tech Manager" location="TECH" email="" placeholders="1" link="" SupportLine="ALL" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;shadow=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="30" width="220" height="120" as="geometry" />
+            <mxGeometry x="620" y="30" width="220" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
@@ -23,9 +23,9 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Giovanni Egitto" position="Team Leader" location="TECH" email="" link="" SupportLine="V&amp;M" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-16">
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Giovanni Egitto" position="Team Leader" location="TECH" email="" link="" SupportLine="V&amp;M + IM" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-16">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="760" y="180" width="180" height="80" as="geometry" />
+            <mxGeometry x="1040" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
@@ -33,7 +33,7 @@
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Paolo Bertoglio" position="Tech Executive" location="TECH" email="" link="" SupportLine="MKG" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-18">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+            <mxGeometry x="590" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="CyeVb8oGlmXGPLL4Kh8z-4" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="CyeVb8oGlmXGPLL4Kh8z-5" source="dNxyNK7c78bLwvsdeMH5-14" parent="dNxyNK7c78bLwvsdeMH5-11">
@@ -81,9 +81,9 @@
             <mxPoint x="410" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Giovanni Egitto" position="Team Leader" location="TECH" email="" link="" SupportLine="V&amp;M" placeholders="1" id="CyeVb8oGlmXGPLL4Kh8z-17">
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Simona Cavalli" position="Member" location="TECH" email="" link="" SupportLine="V&amp;M" placeholders="1" id="CyeVb8oGlmXGPLL4Kh8z-17">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="760" y="300" width="180" height="80" as="geometry" />
+            <mxGeometry x="910" y="300" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="CyeVb8oGlmXGPLL4Kh8z-18" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="CyeVb8oGlmXGPLL4Kh8z-19" source="dNxyNK7c78bLwvsdeMH5-16" parent="dNxyNK7c78bLwvsdeMH5-11">
@@ -91,19 +91,167 @@
             <mxPoint x="410" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Giovanni Egitto" position="Team Leader" location="TECH" email="" link="" SupportLine="V&amp;M" placeholders="1" id="CyeVb8oGlmXGPLL4Kh8z-19">
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Manuel Sampieri" position="Member" location="TECH" email="" link="" SupportLine="V&amp;M" placeholders="1" id="CyeVb8oGlmXGPLL4Kh8z-19">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="950" y="300" width="180" height="80" as="geometry" />
+            <mxGeometry x="1200" y="300" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="CyeVb8oGlmXGPLL4Kh8z-20" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="CyeVb8oGlmXGPLL4Kh8z-21" source="dNxyNK7c78bLwvsdeMH5-16" parent="dNxyNK7c78bLwvsdeMH5-11">
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Future" id="NrDLZkLGvLAbwCEVd1RV">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="oaNLqm6Id40AhQp7kfjO-0" />
+        <mxCell id="oaNLqm6Id40AhQp7kfjO-1" parent="oaNLqm6Id40AhQp7kfjO-0" />
+        <mxCell id="oaNLqm6Id40AhQp7kfjO-2" value="Tech Structure" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-1">
+          <mxGeometry x="30" y="85" width="1950" height="500" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui variable&amp;#34; , &amp;#34;segoe ui&amp;#34; , , , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; ; font-size: 14px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;Line: %SupportLine%&lt;/span&gt;" name="Eugenio Meregalli" position="Senior Tech Manager" location="TECH" email="" placeholders="1" link="" SupportLine="ALL" id="oaNLqm6Id40AhQp7kfjO-3">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="620" y="30" width="220" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oaNLqm6Id40AhQp7kfjO-4" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="oaNLqm6Id40AhQp7kfjO-2" source="oaNLqm6Id40AhQp7kfjO-3" target="oaNLqm6Id40AhQp7kfjO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line: &lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;%SupportLine%&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" name="Federico Butti" position="Manager" location="TECH" email="" link="" SupportLine="SEN + APP" placeholders="1" id="oaNLqm6Id40AhQp7kfjO-5">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="80" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oaNLqm6Id40AhQp7kfjO-6" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="oaNLqm6Id40AhQp7kfjO-2" source="oaNLqm6Id40AhQp7kfjO-3" target="oaNLqm6Id40AhQp7kfjO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Giovanni Egitto" position="Manager" location="TECH" email="" link="" SupportLine="V&amp;M + IM" placeholders="1" id="oaNLqm6Id40AhQp7kfjO-7">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="1040" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oaNLqm6Id40AhQp7kfjO-8" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="oaNLqm6Id40AhQp7kfjO-2" source="oaNLqm6Id40AhQp7kfjO-3" target="oaNLqm6Id40AhQp7kfjO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Paolo Bertoglio" position="Team Leader" location="TECH" email="" link="" SupportLine="MKG" placeholders="1" id="oaNLqm6Id40AhQp7kfjO-9">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="770" y="245" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oaNLqm6Id40AhQp7kfjO-10" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="oaNLqm6Id40AhQp7kfjO-2" source="oaNLqm6Id40AhQp7kfjO-5" target="oaNLqm6Id40AhQp7kfjO-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Giovanni Egitto" position="Team Leader" location="TECH" email="" link="" SupportLine="V&amp;M" placeholders="1" id="CyeVb8oGlmXGPLL4Kh8z-21">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1140" y="300" width="180" height="80" as="geometry" />
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line: &lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;%SupportLine%&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" name="Jaspreet Singh" position="Team Leader" location="TECH" email="" link="" SupportLine="APPLI + AUTO" placeholders="1" id="oaNLqm6Id40AhQp7kfjO-11">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="500" y="255" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oaNLqm6Id40AhQp7kfjO-12" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="oaNLqm6Id40AhQp7kfjO-2" source="oaNLqm6Id40AhQp7kfjO-17" target="oaNLqm6Id40AhQp7kfjO-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line: &lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;%SupportLine%&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" name="Serena Miglietta" position="Member" location="TECH" email="" link="" SupportLine="SEN + APP" placeholders="1" id="oaNLqm6Id40AhQp7kfjO-13">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="30" y="400" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oaNLqm6Id40AhQp7kfjO-14" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="oaNLqm6Id40AhQp7kfjO-2" source="oaNLqm6Id40AhQp7kfjO-17" target="oaNLqm6Id40AhQp7kfjO-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line: &lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;%SupportLine%&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" name="Paolo Carenzi" position="Member" location="TECH" email="" link="" SupportLine="SEN + APP" placeholders="1" id="oaNLqm6Id40AhQp7kfjO-15">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="240" y="400" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oaNLqm6Id40AhQp7kfjO-16" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="oaNLqm6Id40AhQp7kfjO-2" source="oaNLqm6Id40AhQp7kfjO-5" target="oaNLqm6Id40AhQp7kfjO-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line: &lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;%SupportLine%&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" name="Fabio Ciardullo" position="Sales Executive" location="TECH" email="" link="" SupportLine="SEN + APP + VH" placeholders="1" id="oaNLqm6Id40AhQp7kfjO-17">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="70" y="280" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oaNLqm6Id40AhQp7kfjO-18" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="oaNLqm6Id40AhQp7kfjO-2" source="oaNLqm6Id40AhQp7kfjO-7" target="oaNLqm6Id40AhQp7kfjO-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Simona Cavalli" position="Team Leader" location="TECH" email="" link="" SupportLine="Vision + HPM" placeholders="1" id="oaNLqm6Id40AhQp7kfjO-19">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="1300" y="300" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mylN2vnGyu_a2ICeeERr-10" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="mylN2vnGyu_a2ICeeERr-11" source="oaNLqm6Id40AhQp7kfjO-19" parent="oaNLqm6Id40AhQp7kfjO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="New" position="Member" location="TECH" email="" link="" SupportLine="Vision" placeholders="1" id="mylN2vnGyu_a2ICeeERr-11">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="1500" y="420" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mylN2vnGyu_a2ICeeERr-12" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="mylN2vnGyu_a2ICeeERr-13" source="oaNLqm6Id40AhQp7kfjO-19" parent="oaNLqm6Id40AhQp7kfjO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="New" position="Member" location="TECH" email="" link="" SupportLine="Vision" placeholders="1" id="mylN2vnGyu_a2ICeeERr-13">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="1700" y="420" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="Manuel Sampieri" position="Member" location="TECH" email="" link="" SupportLine="Vision" placeholders="1" id="oaNLqm6Id40AhQp7kfjO-21">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="1300" y="405" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mylN2vnGyu_a2ICeeERr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="oaNLqm6Id40AhQp7kfjO-2" source="oaNLqm6Id40AhQp7kfjO-19" target="oaNLqm6Id40AhQp7kfjO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mylN2vnGyu_a2ICeeERr-14" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="mylN2vnGyu_a2ICeeERr-15" source="oaNLqm6Id40AhQp7kfjO-7" parent="oaNLqm6Id40AhQp7kfjO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="New Member" position="Team Leader" location="TECH" email="" link="" SupportLine="IM + HPM" placeholders="1" id="mylN2vnGyu_a2ICeeERr-15">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="1080" y="405" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mylN2vnGyu_a2ICeeERr-22" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="mylN2vnGyu_a2ICeeERr-23" source="oaNLqm6Id40AhQp7kfjO-11" parent="oaNLqm6Id40AhQp7kfjO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line: &lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;%SupportLine%&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" name="new" position="Member" location="TECH" email="" link="" SupportLine="APPLI + AUTO" placeholders="1" id="mylN2vnGyu_a2ICeeERr-23">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="470" y="400" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mylN2vnGyu_a2ICeeERr-24" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="mylN2vnGyu_a2ICeeERr-25" source="oaNLqm6Id40AhQp7kfjO-11" parent="oaNLqm6Id40AhQp7kfjO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line: &lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;%SupportLine%&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" name="new" position="Member" location="TECH" email="" link="" SupportLine="APPLI + AUTO" placeholders="1" id="mylN2vnGyu_a2ICeeERr-25">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="660" y="400" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mylN2vnGyu_a2ICeeERr-26" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="mylN2vnGyu_a2ICeeERr-27" source="oaNLqm6Id40AhQp7kfjO-9" parent="oaNLqm6Id40AhQp7kfjO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="new" position="Member" location="TECH" email="" link="" SupportLine="MKG" placeholders="1" id="mylN2vnGyu_a2ICeeERr-27">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-2">
+            <mxGeometry x="860" y="400" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
