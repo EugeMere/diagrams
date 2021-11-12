@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T17:53:42.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="rthHxRlIj8WK3dgR4vOu" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T18:02:44.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="yjpxXeFL5svN-i17q9Wo" version="15.7.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3BQAt05eRMSn-WT811A6-12" value="Nuo" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=0;fontSize=14;align=center;fillColor=none;strokeColor=#DAE8FC;strokeWidth=4;perimeterSpacing=5;" vertex="1" parent="1">
+        <mxCell id="3BQAt05eRMSn-WT811A6-12" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=0;fontSize=14;align=center;fillColor=none;strokeColor=#DAE8FC;strokeWidth=4;perimeterSpacing=5;" vertex="1" parent="1">
           <mxGeometry x="15" y="90" width="1110" height="510" as="geometry" />
         </mxCell>
         <mxCell id="3BQAt05eRMSn-WT811A6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="3BQAt05eRMSn-WT811A6-1" target="3BQAt05eRMSn-WT811A6-2">
@@ -13,27 +13,42 @@
         <mxCell id="3BQAt05eRMSn-WT811A6-1" value="&lt;b style=&quot;font-size: 14px&quot;&gt;TECH&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Indicare assegnazione&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;per ogni prodotto al &lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;sales&lt;/font&gt;&lt;/b&gt; o &lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;ufficio&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;In caso di &lt;b&gt;fixed&lt;/b&gt; &lt;b&gt;asset &lt;/b&gt;indicare&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;anche il numero di seriale del prodoto&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontStyle=0;fontSize=14;size=30;spacing=2;spacingLeft=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="180" width="340" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="3BQAt05eRMSn-WT811A6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="3BQAt05eRMSn-WT811A6-2" target="3BQAt05eRMSn-WT811A6-5">
+        <mxCell id="3BQAt05eRMSn-WT811A6-6" value="solo per &lt;b&gt;fixed asset&lt;br&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3BQAt05eRMSn-WT811A6-2" target="3BQAt05eRMSn-WT811A6-5">
+          <mxGeometry x="0.125" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="380" />
+              <mxPoint x="540" y="380" />
+              <mxPoint x="540" y="450" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3BQAt05eRMSn-WT811A6-2" value="&lt;b style=&quot;font-size: 14px&quot;&gt;PCD&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Assegnazione codici in AS-2&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;In caso di &lt;b&gt;fixed asset &lt;/b&gt;registrazione inventory identification&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontStyle=0;fontSize=14;size=30;spacing=2;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQAt05eRMSn-WT811A6-3" value="&lt;b style=&quot;font-size: 14px&quot;&gt;Sales&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/b&gt;&lt;br&gt;-" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontStyle=0;fontSize=14;size=30;spacing=2;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="430" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQAt05eRMSn-WT811A6-19" value="spedizione a desitnazione" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FF3333;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3BQAt05eRMSn-WT811A6-5" target="3BQAt05eRMSn-WT811A6-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="450" />
+              <mxPoint x="280" y="580" />
+              <mxPoint x="925" y="580" />
+              <mxPoint x="925" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3BQAt05eRMSn-WT811A6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="3BQAt05eRMSn-WT811A6-2" target="3BQAt05eRMSn-WT811A6-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3BQAt05eRMSn-WT811A6-2" value="&lt;b style=&quot;font-size: 14px&quot;&gt;PCD&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Assegnazione codici in AS-2&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;In caso di &lt;b&gt;fixed asset &lt;/b&gt;registrazione inventory identification&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontStyle=0;fontSize=14;size=30;spacing=2;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="180" width="340" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="3BQAt05eRMSn-WT811A6-3" value="&lt;b style=&quot;font-size: 14px&quot;&gt;Sales&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/b&gt;&lt;br&gt;-" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontStyle=0;fontSize=14;size=30;spacing=2;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="180" width="340" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="3BQAt05eRMSn-WT811A6-5" value="&lt;b style=&quot;font-size: 14px&quot;&gt;TECH&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;In caso di &lt;b&gt;fixed&lt;/b&gt; &lt;b&gt;asset &lt;/b&gt;stampa codice&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;attacca etichetta sui prodotti&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontStyle=0;fontSize=14;size=30;spacing=2;spacingLeft=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="20" y="370" width="340" height="160" as="geometry" />
+          <mxGeometry x="30" y="380" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3BQAt05eRMSn-WT811A6-14" value="&lt;b&gt;TECH&lt;/b&gt;&lt;br&gt;&lt;br&gt;Indicare assegnazione materiale a &lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;MIHQ&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;Gestione del KeyWorkflow&lt;br&gt;&lt;br&gt;In caso di &lt;b&gt;fixed asset &lt;/b&gt;indicare&lt;br&gt;&amp;nbsp;il numero seriale del prodotto" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;sketch=0;fontSize=14;strokeColor=#82b366;strokeWidth=4;fillColor=#d5e8d4;align=center;" vertex="1" parent="1">
           <mxGeometry x="30" y="660" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQAt05eRMSn-WT811A6-15" value="&lt;b&gt;TECH&lt;/b&gt;&lt;br&gt;&lt;br&gt;Nel caso di spedizione codice alternativo&lt;br&gt;Gestione del KeyWorkflow&lt;br&gt;&lt;br&gt;In caso di &lt;b&gt;fixed asset &lt;/b&gt;indicare&lt;br&gt;&amp;nbsp;il numero seriale del prodotto" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;sketch=0;fontSize=14;strokeColor=#82b366;strokeWidth=4;fillColor=#d5e8d4;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="660" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQAt05eRMSn-WT811A6-20" value="A. Flusso per nuovi prodotti rilasciati" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=16;fontColor=#FF3333;fontStyle=5;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
