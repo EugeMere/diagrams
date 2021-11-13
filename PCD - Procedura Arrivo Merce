@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T11:48:34.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="t-Rcjpz7uz-_tkebevuD" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T15:08:13.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="Yq8z0WJ4MCjRVrmOua7v" version="15.7.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,30 +43,41 @@
         <mxCell id="i5mGmQwP5-7SGwPXkFFI-8" value="per &lt;b&gt;fixed asset&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="3BQAt05eRMSn-WT811A6-14" target="i5mGmQwP5-7SGwPXkFFI-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="392" y="741" />
-              <mxPoint x="392" y="806" />
-              <mxPoint x="871" y="806" />
-              <mxPoint x="871" y="748" />
+              <mxPoint x="401" y="834" />
+              <mxPoint x="401" y="899" />
+              <mxPoint x="880" y="899" />
+              <mxPoint x="880" y="841" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3BQAt05eRMSn-WT811A6-14" value="&lt;b&gt;TECH&lt;/b&gt;&lt;br&gt;&lt;br&gt;Indicare assegnazione materiale a &lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;MIHQ&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;Gestione del KeyWorkflow&lt;br&gt;&lt;br&gt;In caso di &lt;b&gt;fixed asset &lt;/b&gt;indicare&lt;br&gt;&amp;nbsp;il numero seriale del prodotto" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;sketch=1;fontSize=14;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontStyle=0;spacing=2;spacingLeft=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="656" width="340" height="170" as="geometry" />
+          <mxGeometry x="39" y="749" width="340" height="170" as="geometry" />
         </mxCell>
         <mxCell id="i5mGmQwP5-7SGwPXkFFI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3BQAt05eRMSn-WT811A6-15" target="i5mGmQwP5-7SGwPXkFFI-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i5mGmQwP5-7SGwPXkFFI-11" value="consegna" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="3BQAt05eRMSn-WT811A6-15" target="i5mGmQwP5-7SGwPXkFFI-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="703" y="711" />
+              <mxPoint x="1462" y="711" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3BQAt05eRMSn-WT811A6-15" value="&lt;b&gt;TECH&lt;/b&gt;&lt;br&gt;&lt;br&gt;Nel caso di spedizione codice alternativo&lt;br&gt;verrà indicato nel KeyWorkflow" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;sketch=1;fontSize=14;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontStyle=0;spacing=2;spacingLeft=0;" parent="1" vertex="1">
-          <mxGeometry x="533" y="652" width="321" height="98" as="geometry" />
+          <mxGeometry x="542" y="745" width="321" height="98" as="geometry" />
         </mxCell>
         <mxCell id="3BQAt05eRMSn-WT811A6-20" value="A. Flusso per nuovi prodotti rilasciati" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=16;fontColor=#FF3333;fontStyle=5;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="50" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i5mGmQwP5-7SGwPXkFFI-1" value="&lt;b style=&quot;font-size: 14px&quot;&gt;PCD&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Assegnazione codici in AS-2&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;In caso di &lt;b&gt;fixed asset &lt;/b&gt;registrazione inventory identification&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Nel caso di codice alternativo gestisce&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;assegnazione al sales / ufficio e il rientro del&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;codice originale dal workflofw Broken&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontStyle=0;fontSize=14;size=30;spacing=2;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="935" y="656" width="340" height="184" as="geometry" />
+          <mxGeometry x="944" y="749" width="340" height="184" as="geometry" />
         </mxCell>
         <mxCell id="i5mGmQwP5-7SGwPXkFFI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3BQAt05eRMSn-WT811A6-15" target="3BQAt05eRMSn-WT811A6-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5mGmQwP5-7SGwPXkFFI-9" value="&lt;b style=&quot;font-size: 14px&quot;&gt;Sales&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/b&gt;&lt;br&gt;restituzione codice rotto" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;fontStyle=0;fontSize=14;size=30;spacing=2;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="1352" y="799" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
