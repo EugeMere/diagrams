@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T08:04:34.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="AhntS7QmLhHwCf7ax71G" version="15.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-20T09:52:07.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="69-smtP6B05aIMHzPMHa" version="15.7.3" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="AS IS">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,12 +103,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Future" id="NrDLZkLGvLAbwCEVd1RV">
-    <mxGraphModel dx="1973" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oaNLqm6Id40AhQp7kfjO-0" />
         <mxCell id="oaNLqm6Id40AhQp7kfjO-1" parent="oaNLqm6Id40AhQp7kfjO-0" />
         <mxCell id="oaNLqm6Id40AhQp7kfjO-2" value="Tech Structure" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="oaNLqm6Id40AhQp7kfjO-1" vertex="1">
-          <mxGeometry x="40" y="85" width="1950" height="665" as="geometry">
+          <mxGeometry x="40" y="85" width="2100" height="665" as="geometry">
             <mxRectangle x="30" y="85" width="120" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -225,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="New" position="Member" location="TECH" email="" link="" SupportLine="IM + HPM" placeholders="1" id="mylN2vnGyu_a2ICeeERr-15">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontColor=#000000;" parent="oaNLqm6Id40AhQp7kfjO-2" vertex="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#69D3FA;strokeColor=#d6b656;shadow=1;fontColor=#000000;" parent="oaNLqm6Id40AhQp7kfjO-2" vertex="1">
             <mxGeometry x="1074" y="555" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -255,12 +255,26 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="New" position="Member" location="TECH" email="" link="" SupportLine="MKG" placeholders="1" id="mylN2vnGyu_a2ICeeERr-27">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontColor=#000000;" parent="oaNLqm6Id40AhQp7kfjO-2" vertex="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="oaNLqm6Id40AhQp7kfjO-2" vertex="1">
             <mxGeometry x="865" y="555" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="qdMh3dPk9ewnLGr1pGxn-0" value="Tech Structure idea" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#3333FF;" parent="oaNLqm6Id40AhQp7kfjO-1" vertex="1">
           <mxGeometry x="50" y="20" width="240" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Line:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;%SupportLine%&lt;/span&gt;" name="New" position="Member" location="TECH" email="" link="" SupportLine="Vision" placeholders="1" id="aGIakuPbkwi47S_4C-Ci-2">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontColor=#000000;" vertex="1" parent="oaNLqm6Id40AhQp7kfjO-1">
+            <mxGeometry x="1940" y="640" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="aGIakuPbkwi47S_4C-Ci-3" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="oaNLqm6Id40AhQp7kfjO-1" source="oaNLqm6Id40AhQp7kfjO-1" target="aGIakuPbkwi47S_4C-Ci-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="500" as="sourcePoint" />
+            <mxPoint x="1830" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGIakuPbkwi47S_4C-Ci-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="oaNLqm6Id40AhQp7kfjO-1" source="oaNLqm6Id40AhQp7kfjO-19" target="aGIakuPbkwi47S_4C-Ci-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
