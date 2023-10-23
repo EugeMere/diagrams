@@ -1,9 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T16:24:32.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" version="22.0.6" etag="EDQ_bksZaexb4OterUQ0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T16:38:07.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="y7if7vnFZtQ5LTEAfDdC" version="22.0.6" type="github">
   <diagram name="Pagina-1" id="2K9K8B1YWTyNbMokl5k0">
-    <mxGraphModel>
+    <mxGraphModel dx="1221" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfQ0a9345wttwDZ6X_EZ-1" target="QfQ0a9345wttwDZ6X_EZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-1" value="chiamata allo&amp;nbsp;&lt;br&gt;02 6688220" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-7" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfQ0a9345wttwDZ6X_EZ-4" target="QfQ0a9345wttwDZ6X_EZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-9" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfQ0a9345wttwDZ6X_EZ-4" target="QfQ0a9345wttwDZ6X_EZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-4" value="Reception&amp;nbsp;&lt;br&gt;Risponde ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-6" value="Fine" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfQ0a9345wttwDZ6X_EZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-8" value="inoltro a CSM&lt;br&gt;dopo 10s" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-18" value="Orario di lavoro" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfQ0a9345wttwDZ6X_EZ-16" target="QfQ0a9345wttwDZ6X_EZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-24" value="fuori orario" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfQ0a9345wttwDZ6X_EZ-16" target="QfQ0a9345wttwDZ6X_EZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-16" value="Verifica orario&amp;nbsp;&lt;br&gt;CSM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-20" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfQ0a9345wttwDZ6X_EZ-17" target="QfQ0a9345wttwDZ6X_EZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-22" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfQ0a9345wttwDZ6X_EZ-17" target="QfQ0a9345wttwDZ6X_EZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-17" value="CSM&lt;br&gt;Risponde?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-19" value="Fine" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-21" value="Inotro a segreteria24" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="320" y="810" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-27" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfQ0a9345wttwDZ6X_EZ-23" target="QfQ0a9345wttwDZ6X_EZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfQ0a9345wttwDZ6X_EZ-23" target="QfQ0a9345wttwDZ6X_EZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-23" value="08-09?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-28" value="Inltro a casella di&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
