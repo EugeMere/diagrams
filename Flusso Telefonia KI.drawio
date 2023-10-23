@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T16:47:11.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="HxW6ADyjTmCIZ__TqaJd" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T16:48:10.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="ELjQo8QXrfktdXBg6XOn" version="22.0.6" type="github">
   <diagram name="Pagina-1" id="2K9K8B1YWTyNbMokl5k0">
     <mxGraphModel dx="1221" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="LZTAOic8aY3pJip-Kh1O-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfQ0a9345wttwDZ6X_EZ-21" target="LZTAOic8aY3pJip-Kh1O-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QfQ0a9345wttwDZ6X_EZ-21" value="Inotro a segreteria24" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;rounded=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
+        <mxCell id="QfQ0a9345wttwDZ6X_EZ-21" value="Inotro a segreteria24&lt;br&gt;dopo 15 sec" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;rounded=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
           <mxGeometry x="320" y="810" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QfQ0a9345wttwDZ6X_EZ-27" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;verticalAlign=bottom;align=right;horizontal=1;" parent="1" source="QfQ0a9345wttwDZ6X_EZ-23" target="QfQ0a9345wttwDZ6X_EZ-21" edge="1">
