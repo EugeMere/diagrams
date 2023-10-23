@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T16:56:47.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="H_TkPB2fKi9MwjDO3UQA" version="22.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-23T16:57:32.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="MZ5qHX4Z7plAKBL0Sw5e" version="22.0.6" type="github" pages="2">
   <diagram name="GeneralNumber" id="2K9K8B1YWTyNbMokl5k0">
     <mxGraphModel dx="1195" dy="699" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-12" value="Verifica orario&amp;nbsp;&lt;br&gt;CSM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
-          <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="265" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-13" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;verticalAlign=bottom;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="3qt1G9RcAfQPBy9y7cRb-15" target="3qt1G9RcAfQPBy9y7cRb-16">
           <mxGeometry relative="1" as="geometry" />
@@ -111,16 +111,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-15" value="CSM&lt;br&gt;Risponde?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
-          <mxGeometry x="230" y="324" width="130" height="80" as="geometry" />
+          <mxGeometry x="135" y="314" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-16" value="Fine" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontStyle=1;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
-          <mxGeometry x="433" y="324" width="80" height="80" as="geometry" />
+          <mxGeometry x="338" y="314" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="3qt1G9RcAfQPBy9y7cRb-18" target="3qt1G9RcAfQPBy9y7cRb-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-18" value="Inotro a segreteria24&lt;br&gt;dopo 15 sec" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
-          <mxGeometry x="255" y="525" width="80" height="120" as="geometry" />
+          <mxGeometry x="160" y="515" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-19" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;verticalAlign=bottom;align=right;horizontal=1;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="3qt1G9RcAfQPBy9y7cRb-21" target="3qt1G9RcAfQPBy9y7cRb-18">
           <mxGeometry relative="1" as="geometry" />
@@ -129,19 +129,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-21" value="08-09?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
-          <mxGeometry x="577" y="256" width="80" height="80" as="geometry" />
+          <mxGeometry x="482" y="246" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="3qt1G9RcAfQPBy9y7cRb-23" target="3qt1G9RcAfQPBy9y7cRb-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-23" value="Inoltro alla casella vocale" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
-          <mxGeometry x="670" y="369" width="120" height="60" as="geometry" />
+          <mxGeometry x="564" y="359" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-24" value="Fine" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;rounded=1;labelBackgroundColor=none;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
-          <mxGeometry x="911" y="359" width="80" height="80" as="geometry" />
+          <mxGeometry x="723" y="349" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-25" value="Fine" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;rounded=1;labelBackgroundColor=none;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
-          <mxGeometry x="255" y="766" width="80" height="80" as="geometry" />
+          <mxGeometry x="160" y="756" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-26" value="FLUSSO DI RISPOSTA CHIAMATE ENTRANTI AL NUMERO DEL CSM 02 00 6437 99" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#f5ab50;fontSize=18;labelBackgroundColor=none;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
           <mxGeometry x="30" y="10" width="790" height="40" as="geometry" />
