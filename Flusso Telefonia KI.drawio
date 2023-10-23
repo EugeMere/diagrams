@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T16:48:10.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="ELjQo8QXrfktdXBg6XOn" version="22.0.6" type="github">
-  <diagram name="Pagina-1" id="2K9K8B1YWTyNbMokl5k0">
-    <mxGraphModel dx="1221" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-10-23T16:50:28.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="KlspRmN1AA2VmV85v7uU" version="22.0.6" type="github">
+  <diagram name="GeneralNumber" id="2K9K8B1YWTyNbMokl5k0">
+    <mxGraphModel dx="1195" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,6 +77,9 @@
         </mxCell>
         <mxCell id="LZTAOic8aY3pJip-Kh1O-3" value="Fine" style="ellipse;whiteSpace=wrap;html=1;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="1030" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LZTAOic8aY3pJip-Kh1O-5" value="FLUSSO DI RISPOSTA CHIAMATE ENTRANTI AL NUMERO GENERALE 02 66 88220" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#09555b;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="790" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
