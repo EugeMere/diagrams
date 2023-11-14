@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T09:01:27.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57" etag="ciaV60S-9eEq3ylMP-Bh" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-14T09:15:14.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57" etag="1LegfBkrhK4ig0kO7_nL" version="22.1.0" type="github" pages="2">
   <diagram name="GeneralNumber" id="2K9K8B1YWTyNbMokl5k0">
     <mxGraphModel dx="1914" dy="988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,40 +89,98 @@
       <root>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-0" />
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-1" parent="3qt1G9RcAfQPBy9y7cRb-0" />
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="3qt1G9RcAfQPBy9y7cRb-3" target="YkXzJdTCK8HwTeFbaty8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-3" value="Ricezione chiamata allo &lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;02 00643799&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;rotation=90;horizontal=0;fontSize=14;" parent="3qt1G9RcAfQPBy9y7cRb-1" vertex="1">
-          <mxGeometry x="372" y="48" width="120" height="146" as="geometry" />
+          <mxGeometry x="365" y="120" width="120" height="146" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-12" value="Verifica orario della chiamata" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontSize=16;" parent="3qt1G9RcAfQPBy9y7cRb-1" vertex="1">
-          <mxGeometry x="143" y="216" width="561" height="60" as="geometry" />
+          <mxGeometry x="136" y="288" width="561" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3qt1G9RcAfQPBy9y7cRb-14" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;verticalAlign=bottom;" parent="3qt1G9RcAfQPBy9y7cRb-1" source="3qt1G9RcAfQPBy9y7cRb-15" target="3qt1G9RcAfQPBy9y7cRb-18" edge="1">
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-15" value="si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="3qt1G9RcAfQPBy9y7cRb-15" target="3qt1G9RcAfQPBy9y7cRb-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-15" value="CSM&lt;br&gt;Risponde?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" parent="3qt1G9RcAfQPBy9y7cRb-1" vertex="1">
-          <mxGeometry x="600" y="423" width="130" height="80" as="geometry" />
+          <mxGeometry x="623" y="848" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="3qt1G9RcAfQPBy9y7cRb-18" target="3qt1G9RcAfQPBy9y7cRb-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-18" value="Inotro a segreteria24&lt;br&gt;dopo 10 sec" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" parent="3qt1G9RcAfQPBy9y7cRb-1" vertex="1">
-          <mxGeometry x="543" y="696" width="80" height="120" as="geometry" />
+          <mxGeometry x="426" y="848" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="3qt1G9RcAfQPBy9y7cRb-23" target="3qt1G9RcAfQPBy9y7cRb-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="1069" />
+              <mxPoint x="685" y="1069" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-23" value="Registrazione messaggio in casella vocale &lt;b&gt;CSM_KI&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" parent="3qt1G9RcAfQPBy9y7cRb-1" vertex="1">
-          <mxGeometry x="107" y="557" width="120" height="60" as="geometry" />
+          <mxGeometry x="97" y="702" width="143" height="84" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-25" value="Fine" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;rounded=1;labelBackgroundColor=none;" parent="3qt1G9RcAfQPBy9y7cRb-1" vertex="1">
-          <mxGeometry x="354" y="866" width="80" height="80" as="geometry" />
+          <mxGeometry x="648" y="1028" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3qt1G9RcAfQPBy9y7cRb-26" value="FLUSSO DI RISPOSTA CHIAMATE ENTRANTI AL NUMERO DEL CSM 02 00 6437 99" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#f5ab50;fontSize=18;labelBackgroundColor=none;" parent="3qt1G9RcAfQPBy9y7cRb-1" vertex="1">
           <mxGeometry x="30" y="10" width="746" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="YkXzJdTCK8HwTeFbaty8-0" target="3qt1G9RcAfQPBy9y7cRb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="Messaggio vocale" Messaggio="Chiens Italia buongiorno,&#xa;in questo momento non possiamo rispondervi, per favore lasciate un messaggio con i vostri riferimenti dopo il segnale acustico.&#xa;Grazie" id="YkXzJdTCK8HwTeFbaty8-0">
-          <mxCell style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
-            <mxGeometry x="107" y="436" width="120" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontSize=16;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
+            <mxGeometry x="63" y="609" width="211" height="54" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-5" value="ore 08:00 - 09:00&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="YkXzJdTCK8HwTeFbaty8-2" target="YkXzJdTCK8HwTeFbaty8-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-6" value="altro orario" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="YkXzJdTCK8HwTeFbaty8-2" target="YkXzJdTCK8HwTeFbaty8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YkXzJdTCK8HwTeFbaty8-2" value="Verifica orario della chiamata" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontSize=16;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
-          <mxGeometry x="138" y="216" width="561" height="60" as="geometry" />
+          <mxGeometry x="144.5" y="288" width="561" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-12" value="nessuno" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="YkXzJdTCK8HwTeFbaty8-3" target="YkXzJdTCK8HwTeFbaty8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-13" value="qualcuno disponibile" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="YkXzJdTCK8HwTeFbaty8-3" target="YkXzJdTCK8HwTeFbaty8-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YkXzJdTCK8HwTeFbaty8-3" value="Verifica disponibilità operatori CSM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontSize=16;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
-          <mxGeometry x="417" y="326" width="313" height="60" as="geometry" />
+          <mxGeometry x="451" y="486" width="313" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="YkXzJdTCK8HwTeFbaty8-9" target="3qt1G9RcAfQPBy9y7cRb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="attesa 10 secondi" Suono="Tono registrato con voce di Martina" id="YkXzJdTCK8HwTeFbaty8-9">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;rounded=1;labelBackgroundColor=none;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
+            <mxGeometry x="628" y="657" width="120" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="YkXzJdTCK8HwTeFbaty8-10" target="3qt1G9RcAfQPBy9y7cRb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Attesa 5 secondi" Suono="Tono registrato con squillo telefono" id="YkXzJdTCK8HwTeFbaty8-10">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;rounded=1;labelBackgroundColor=none;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
+            <mxGeometry x="406" y="657" width="120" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="YkXzJdTCK8HwTeFbaty8-11" target="YkXzJdTCK8HwTeFbaty8-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Attesa 5 secondi" Suono="Tono registrato con squillo telefono" id="YkXzJdTCK8HwTeFbaty8-11">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;rounded=1;labelBackgroundColor=none;" vertex="1" parent="3qt1G9RcAfQPBy9y7cRb-1">
+            <mxGeometry x="108.5" y="486" width="120" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="YkXzJdTCK8HwTeFbaty8-16" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.327;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3qt1G9RcAfQPBy9y7cRb-1" source="3qt1G9RcAfQPBy9y7cRb-15" target="3qt1G9RcAfQPBy9y7cRb-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
